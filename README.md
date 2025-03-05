@@ -1,0 +1,2 @@
+# hyperwiki
+A Wikipedia HIPERTRADUZIDA
